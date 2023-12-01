@@ -13,7 +13,6 @@ Meu nome é mariana gabardo
 https://github.com/Marilyss/bio/assets/143607583/112ca270-add2-45a1-9766-e136ab7a539b
 
 jogo pong 
-
-<iframe src="https://editor.p5js.org/mariana.bornancin/full/CDFL8Zc0k"></iframe>
+https://editor.p5js.org/mariana.bornancin/full/CDFL8Zc0k
 
 
